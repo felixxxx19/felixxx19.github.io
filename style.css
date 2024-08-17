@@ -124,6 +124,7 @@ nav {
   background-size: cover;
   background-position: center center;
   height: 409px;
+  margin-top: -48px;
 }
 
 .jumbotron_title {
